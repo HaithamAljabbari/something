@@ -1,0 +1,38 @@
+[
+  {
+    "crypto_name": "bitcoin",
+    "status": "dispute"
+  },
+  {
+    "crypto_name": "ethereum",
+    "status": "dispute"
+  },
+  {
+    "crypto_name": "ripple",
+    "status": "dispute"
+  },
+  {
+    "crypto_name": "cardano",
+    "status": "dispute"
+  },
+  {
+    "crypto_name": "solana",
+    "status": "dispute"
+  },
+  {
+    "crypto_name": "dogecoin",
+    "status": "dispute"
+  },
+  {
+    "crypto_name": "shiba-inu",
+    "status": "dispute"
+  },
+  {
+    "crypto_name": "tether",
+    "status": "dispute"
+  },
+  {
+    "crypto_name": "binancecoin",
+    "status": "dispute"
+  }
+]
