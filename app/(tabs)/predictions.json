@@ -1,0 +1,254 @@
+[
+  {
+    "timestamp": "2024-09-08T09:05:37.304Z",
+    "crypto_name": "Bitcoin",
+    "current_price": 54435,
+    "predicted_price": 4830.8076171875
+  },
+  {
+    "timestamp": "2024-09-08T09:05:37.336Z",
+    "crypto_name": "Ethereum",
+    "current_price": 2285.12,
+    "predicted_price": 202.84512329101562
+  },
+  {
+    "timestamp": "2024-09-08T09:05:37.368Z",
+    "crypto_name": "Tether",
+    "current_price": 0.999596,
+    "predicted_price": 0.1430288851261139
+  },
+  {
+    "timestamp": "2024-09-08T09:05:37.383Z",
+    "crypto_name": "BNB",
+    "current_price": 493.56,
+    "predicted_price": 43.85581970214844
+  },
+  {
+    "timestamp": "2024-09-08T09:05:37.401Z",
+    "crypto_name": "Solana",
+    "current_price": 126.98,
+    "predicted_price": 11.324228286743164
+  },
+  {
+    "timestamp": "2024-09-08T09:05:37.426Z",
+    "crypto_name": "USDC",
+    "current_price": 0.999683,
+    "predicted_price": 0.14303667843341827
+  },
+  {
+    "timestamp": "2024-09-08T09:05:37.443Z",
+    "crypto_name": "XRP",
+    "current_price": 0.529331,
+    "predicted_price": 0.10040457546710968
+  },
+  {
+    "timestamp": "2024-09-08T09:05:56.074Z",
+    "crypto_name": "Dogecoin",
+    "current_price": 0.094872,
+    "predicted_price": 0.04739607125520706
+  },
+  {
+    "timestamp": "2024-09-08T09:05:56.104Z",
+    "crypto_name": "TRON",
+    "current_price": 0.151161,
+    "predicted_price": 0.058894142508506775
+  },
+  {
+    "timestamp": "2024-09-08T09:05:56.153Z",
+    "crypto_name": "Cardano",
+    "current_price": 0.32415,
+    "predicted_price": 0.079427070915699
+  },
+  {
+    "timestamp": "2024-09-08T09:05:56.173Z",
+    "crypto_name": "Shiba Inu",
+    "current_price": 0.00001292,
+    "predicted_price": 0.0012888277415186167
+  },
+  {
+    "timestamp": "2024-09-08T09:05:56.183Z",
+    "crypto_name": "Chainlink",
+    "current_price": 10,
+    "predicted_price": 0.9430129528045654
+  },
+  {
+    "timestamp": "2024-09-08T09:05:56.203Z",
+    "crypto_name": "Bitcoin Cash",
+    "current_price": 303.66,
+    "predicted_price": 27.003427505493164
+  },
+  {
+    "timestamp": "2024-09-08T09:05:56.215Z",
+    "crypto_name": "Polkadot",
+    "current_price": 4.06,
+    "predicted_price": 0.41587650775909424
+  },
+  {
+    "timestamp": "2024-09-08T09:05:56.240Z",
+    "crypto_name": "Uniswap",
+    "current_price": 6.45,
+    "predicted_price": 0.6279733180999756
+  },
+  {
+    "timestamp": "2024-09-08T09:05:56.254Z",
+    "crypto_name": "Litecoin",
+    "current_price": 62.96,
+    "predicted_price": 5.642868518829346
+  },
+  {
+    "timestamp": "2024-09-08T09:05:57.091Z",
+    "crypto_name": "Monero",
+    "current_price": 171.41,
+    "predicted_price": 15.26710319519043
+  },
+  {
+    "timestamp": "2024-09-08T09:05:57.113Z",
+    "crypto_name": "Stellar",
+    "current_price": 0.089583,
+    "predicted_price": 0.04617144167423248
+  },
+  {
+    "timestamp": "2024-09-08T09:05:57.126Z",
+    "crypto_name": "Filecoin",
+    "current_price": 3.33,
+    "predicted_price": 0.35109373927116394
+  },
+  {
+    "timestamp": "2024-09-08T09:05:57.151Z",
+    "crypto_name": "Aave",
+    "current_price": 129.32,
+    "predicted_price": 11.531888008117676
+  },
+  {
+    "timestamp": "2024-09-08T09:05:57.220Z",
+    "crypto_name": "Cosmos Hub",
+    "current_price": 3.75,
+    "predicted_price": 0.3883660137653351
+  },
+  {
+    "timestamp": "2024-09-08T09:05:57.261Z",
+    "crypto_name": "Maker",
+    "current_price": 1550.29,
+    "predicted_price": 137.63372802734375
+  },
+  {
+    "timestamp": "2024-09-08T09:05:57.335Z",
+    "crypto_name": "THORChain",
+    "current_price": 3.56,
+    "predicted_price": 0.37150469422340393
+  },
+  {
+    "timestamp": "2024-09-08T09:05:57.349Z",
+    "crypto_name": "Fantom",
+    "current_price": 0.388773,
+    "predicted_price": 0.08616020530462265
+  },
+  {
+    "timestamp": "2024-09-08T09:05:57.366Z",
+    "crypto_name": "Algorand",
+    "current_price": 0.12119,
+    "predicted_price": 0.0527755543589592
+  },
+  {
+    "timestamp": "2024-09-08T09:05:57.387Z",
+    "crypto_name": "EOS",
+    "current_price": 0.465005,
+    "predicted_price": 0.09409088641405106
+  },
+  {
+    "timestamp": "2024-09-08T09:05:57.400Z",
+    "crypto_name": "NEO",
+    "current_price": 9.22,
+    "predicted_price": 0.8737928867340088
+  },
+  {
+    "timestamp": "2024-09-08T09:05:57.449Z",
+    "crypto_name": "Tezos",
+    "current_price": 0.610221,
+    "predicted_price": 0.1077675148844719
+  },
+  {
+    "timestamp": "2024-09-08T09:05:57.462Z",
+    "crypto_name": "Zcash",
+    "current_price": 28.62,
+    "predicted_price": 2.595417022705078
+  },
+  {
+    "timestamp": "2024-09-08T09:05:57.473Z",
+    "crypto_name": "Dash",
+    "current_price": 23.43,
+    "predicted_price": 2.134838342666626
+  },
+  {
+    "timestamp": "2024-09-08T09:05:57.503Z",
+    "crypto_name": "Basic Attention",
+    "current_price": 0.15696,
+    "predicted_price": 0.05990391969680786
+  },
+  {
+    "timestamp": "2024-09-08T09:05:57.513Z",
+    "crypto_name": "Ravencoin",
+    "current_price": 0.01581093,
+    "predicted_price": 0.011189657263457775
+  },
+  {
+    "timestamp": "2024-09-08T09:05:57.519Z",
+    "crypto_name": "Enjin Coin",
+    "current_price": 0.132427,
+    "predicted_price": 0.055071305483579636
+  },
+  {
+    "timestamp": "2024-09-08T09:05:57.542Z",
+    "crypto_name": "Celo",
+    "current_price": 0.407893,
+    "predicted_price": 0.08815232664346695
+  },
+  {
+    "timestamp": "2024-09-08T09:05:57.550Z",
+    "crypto_name": "Qtum",
+    "current_price": 2.11,
+    "predicted_price": 0.24238257110118866
+  },
+  {
+    "timestamp": "2024-09-08T09:05:57.559Z",
+    "crypto_name": "Decred",
+    "current_price": 11.33,
+    "predicted_price": 1.0610417127609253
+  },
+  {
+    "timestamp": "2024-09-08T09:05:57.563Z",
+    "crypto_name": "yearn.finance",
+    "current_price": 4814.09,
+    "predicted_price": 427.2748718261719
+  },
+  {
+    "timestamp": "2024-09-08T09:05:57.576Z",
+    "crypto_name": "Harmony",
+    "current_price": 0.01072571,
+    "predicted_price": 0.00800267979502678
+  },
+  {
+    "timestamp": "2024-09-08T09:05:57.580Z",
+    "crypto_name": "Sushi",
+    "current_price": 0.567501,
+    "predicted_price": 0.1038818433880806
+  },
+  {
+    "timestamp": "2024-09-08T09:05:57.584Z",
+    "crypto_name": "Waves",
+    "current_price": 0.962358,
+    "predicted_price": 0.13969700038433075
+  },
+  {
+    "timestamp": "2024-09-08T09:05:57.589Z",
+    "crypto_name": "Huobi",
+    "current_price": 0.463782,
+    "predicted_price": 0.09396751970052719
+  },
+  {
+    "timestamp": "2024-09-08T09:05:57.598Z",
+    "crypto_name": "HUSD",
+    "current_price": 0.02444802,
+    "predicted_price": 0.016602640971541405
+  }
+]
